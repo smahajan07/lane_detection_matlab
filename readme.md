@@ -3,7 +3,7 @@ Lane detection is done using Hough Transform and basic Turn Prediction using the
 Sample Output:
 
 
-<video src="sampleOutputGit.mp4" width="320" height="200" controls preload></video>
+<video src="lane_detection_matlab/sampleOutputGit.mp4" width="320" height="200" controls preload></video>
 
 Complete Output:
 
